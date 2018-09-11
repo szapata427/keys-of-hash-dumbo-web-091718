@@ -11,4 +11,3 @@ array = []
     array
   end
 end 
-end
